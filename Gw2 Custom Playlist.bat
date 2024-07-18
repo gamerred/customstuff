@@ -6,7 +6,7 @@ set CUSTOM=myfolder
 
 echo #########################################
 echo ###### GW2 Custom Playlist Rev 2.0 ######
-echo ######     by TheCheatsrichter     ######
+echo ######     by GamerRed25     ######
 echo #########################################
 
 echo.
